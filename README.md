@@ -1,6 +1,9 @@
-# Data Pipeline Project
+# Project Documentation
 
-Please do not fork this repository, but use this repository as a template for your refactoring project. Make Pull Requests to your own repository even if you work alone and mark the checkboxes with an x, if you are done with a topic in the pull request message.
+## Steps to Complete the Project 
+First task was very easy
+Second one: I could not read from gcs bucket directly into spark dataframe. 
+            Tried 2 hours and then gave up. Know that I could have made it different. 
+            But could not believe that I'm not able to do this part that should not be so complicately
 
-## Project for today
-The task for today you can find in the [data-pipeline-project.md](data-pipeline-project.md) file.
+So next step would be to understand pyspark with gcs better 
